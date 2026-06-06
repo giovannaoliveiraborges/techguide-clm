@@ -1,0 +1,1349 @@
+{
+  "name": "Customer Lifecycle Marketing",
+  "expertises": [
+    {
+      "name": "Nível 1 - Fundamentos",
+      "cards": [
+        {
+          "name": "Fundamentos de Customer Lifecycle Marketing",
+          "description": "Compreender CLM como a disciplina que conecta aquisição, engajamento, nutrição, qualificação, conversão, retenção e reengajamento por meio de dados, conteúdo, automação, canais e experiência.",
+          "keyObjectives": [
+            "Diferenciar CLM de Inbound, CRM operacional e campanhas pontuais.",
+            "Reconhecer as etapas do ciclo de vida do lead ou cliente.",
+            "Conectar jornada, dados, conteúdo, automação e métricas de negócio."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Curso de Product Growth",
+              "link": "https://pm3.com.br/curso-product-growth/"
+            }
+          ]
+        },
+        {
+          "name": "CRM Estratégico",
+          "description": "Entender CRM como estratégia de relacionamento, gestão de base, histórico, segmentação, qualidade de dados e ativação de jornadas, e não apenas como ferramenta de disparo.",
+          "keyObjectives": [
+            "Compreender CRM como disciplina de relacionamento e inteligência de base.",
+            "Relacionar propriedades, listas, histórico e interações com personalização e conversão.",
+            "Entender como CRM se conecta a vendas, atendimento, marketing e lifecycle."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Sales Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-sales-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Curso Microsoft Dynamics 365 CRM",
+              "link": "https://www.dio.me/curso-microsoft-dynamics-365-crm"
+            },
+            {
+              "type": "COURSE",
+              "title": "Udemy — CRM e Customer Relationship Management",
+              "link": "https://www.udemy.com/courses/search/?q=crm%20customer%20relationship%20management"
+            }
+          ]
+        },
+        {
+          "name": "Centralidade no Cliente",
+          "description": "Desenvolver uma visão centrada nas necessidades, expectativas, dores, barreiras e contexto do cliente para orientar jornadas, comunicações e decisões de relacionamento.",
+          "keyObjectives": [
+            "Identificar necessidades e barreiras do cliente ao longo da jornada.",
+            "Relacionar valor percebido com comunicação, canais e timing.",
+            "Usar feedbacks e dados comportamentais para orientar melhorias."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Discovery",
+              "link": "https://pm3.com.br/curso-product-discovery/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Udemy — Customer Journey Mapping",
+              "link": "https://www.udemy.com/course/customer-journey-mapping/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            }
+          ]
+        },
+        {
+          "name": "Mapeamento da Jornada do Cliente",
+          "description": "Mapear etapas, pontos de contato, gatilhos, fricções, canais e métricas da jornada do lead ou cliente, criando uma visão compartilhada para orientar réguas e ciclos de conversão.",
+          "keyObjectives": [
+            "Mapear momentos-chave da jornada, de aquisição a reengajamento.",
+            "Identificar fricções, dúvidas, gatilhos e oportunidades.",
+            "Conectar jornada a métricas, dados e comunicações."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Udemy — Customer Journey Mapping",
+              "link": "https://www.udemy.com/course/customer-journey-mapping/"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Discovery",
+              "link": "https://pm3.com.br/curso-product-discovery/"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            }
+          ]
+        },
+        {
+          "name": "Funil de Conversão",
+          "description": "Compreender o funil como uma estrutura para acompanhar evolução, maturidade, gargalos e oportunidades de avanço do lead entre etapas de negócio.",
+          "keyObjectives": [
+            "Definir etapas e conversões críticas do funil.",
+            "Analisar perdas e gargalos entre etapas.",
+            "Relacionar ações de CLM a avanço de etapa e eficiência do funil."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Formação Marketing Digital",
+              "link": "https://www.alura.com.br/formacao-marketing-digital"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Analytics",
+              "link": "https://pm3.com.br/curso-product-analytics/"
+            }
+          ]
+        },
+        {
+          "name": "E-mail Marketing e Nutrição",
+          "description": "Dominar fundamentos de e-mail marketing, nutrição, cadência, segmentação, personalização, CTA, entregabilidade e análise de resultados.",
+          "keyObjectives": [
+            "Planejar e-mails alinhados ao estágio de decisão do lead.",
+            "Aplicar segmentação, personalização, copy e CTA para aumentar relevância.",
+            "Analisar métricas e testes para melhorar nutrição e conversão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Email Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/email-marketing-certification-en"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            }
+          ]
+        },
+        {
+          "name": "Fundamentos de Customer Experience",
+          "description": "Compreender como a experiência nos pontos de contato influencia percepção de valor, confiança, conversão, retenção e relacionamento com a marca.",
+          "keyObjectives": [
+            "Entender os princípios de CX e sua relação com jornada.",
+            "Identificar fricções e oportunidades de melhoria em pontos de contato.",
+            "Conectar experiência, comunicação e conversão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Udemy — Customer Journey Mapping",
+              "link": "https://www.udemy.com/course/customer-journey-mapping/"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Discovery",
+              "link": "https://pm3.com.br/curso-product-discovery/"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nível 2 - Aplicação",
+      "cards": [
+        {
+          "name": "Desenho de Réguas e Jornadas",
+          "description": "Estruturar réguas e jornadas com objetivo, público, gatilho de entrada, critérios de saída, mensagens, timing, canal, segmentação e métrica de sucesso.",
+          "keyObjectives": [
+            "Definir arquitetura de régua e jornada por etapa do ciclo.",
+            "Criar regras de entrada, saída, progressão e exceção.",
+            "Medir impacto da jornada em engajamento e conversão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Trailhead — Journey Builder Basics",
+              "link": "https://trailhead.salesforce.com/content/learn/modules/journey-builder-basics"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Email Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/email-marketing-certification-en"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            }
+          ]
+        },
+        {
+          "name": "Automação de Marketing",
+          "description": "Criar automações escaláveis com base em propriedades, listas, comportamento, eventos, workflows e integrações, reduzindo esforço manual e aumentando precisão das jornadas.",
+          "keyObjectives": [
+            "Criar fluxos com gatilhos e critérios de negócio.",
+            "Avaliar riscos, dependências e governança de automações.",
+            "Conectar automação a personalização, score e mensuração."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Trailhead — Journey Builder Basics",
+              "link": "https://trailhead.salesforce.com/content/learn/modules/journey-builder-basics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Bootcamps e formações em tecnologia",
+              "link": "https://www.dio.me/bootcamp"
+            }
+          ]
+        },
+        {
+          "name": "Segmentação e Personalização",
+          "description": "Criar públicos e experiências com base em origem, canal, interesse, cidade, comportamento, score, etapa da jornada, intenção e histórico de relacionamento.",
+          "keyObjectives": [
+            "Definir critérios de segmentação acionáveis.",
+            "Aplicar personalização por perfil, comportamento e contexto.",
+            "Medir impacto da segmentação em engajamento e conversão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Email Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/email-marketing-certification-en"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            }
+          ]
+        },
+        {
+          "name": "Lead Scoring e Maturação do Lead",
+          "description": "Desenhar e avaliar modelos de pontuação que representem fit, engajamento, comportamento e sinais de intenção para priorizar comunicação e conversão.",
+          "keyObjectives": [
+            "Definir critérios de score por perfil e comportamento.",
+            "Identificar distorções e limitações do modelo.",
+            "Conectar score a jornadas, alertas e ciclos de conversão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Analytics",
+              "link": "https://pm3.com.br/curso-product-analytics/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            }
+          ]
+        },
+        {
+          "name": "Smart Content",
+          "description": "Aplicar conteúdo dinâmico e personalização contextual em e-mails, páginas, CTAs e jornadas para aumentar relevância conforme perfil, origem, interesse ou estágio.",
+          "keyObjectives": [
+            "Identificar oportunidades de conteúdo dinâmico.",
+            "Criar variações de mensagem por segmento e contexto.",
+            "Avaliar impacto de personalização em relevância e conversão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Email Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/email-marketing-certification-en"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "SITE",
+              "title": "Trailhead — Busca por Marketing Cloud",
+              "link": "https://trailhead.salesforce.com/search?keywords=Marketing%20Cloud"
+            }
+          ]
+        },
+        {
+          "name": "Eventos Personalizados e Tracking",
+          "description": "Mapear interações digitais relevantes e transformá-las em eventos, sinais de intenção, gatilhos de automação, critérios de segmentação e insumos de análise.",
+          "keyObjectives": [
+            "Definir eventos que representam intenção real.",
+            "Construir um tracking plan com objetivo, evento, propriedade e uso.",
+            "Conectar eventos a score, automações, relatórios e personalização."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Databricks Academy — Training & Certification",
+              "link": "https://www.databricks.com/learn/training/home"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            }
+          ]
+        },
+        {
+          "name": "Experimentação em Lifecycle",
+          "description": "Transformar gargalos de jornada em hipóteses testáveis, com público, ação, métrica, resultado esperado, análise e aprendizado documentado.",
+          "keyObjectives": [
+            "Criar hipóteses claras de melhoria.",
+            "Priorizar e executar experimentos de lifecycle.",
+            "Documentar resultados e próximos passos com base nos dados."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "PM3 — Curso de Product Growth",
+              "link": "https://pm3.com.br/curso-product-growth/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Udemy — A/B Testing and Experimentation",
+              "link": "https://www.udemy.com/courses/search/?q=a%2Fb%20testing%20experimentation"
+            }
+          ]
+        },
+        {
+          "name": "UX Writing para CRM",
+          "description": "Aplicar princípios de clareza, utilidade, contexto e ação em e-mails, formulários, CTAs, mensagens de erro, fluxos e comunicações de conversão.",
+          "keyObjectives": [
+            "Escrever mensagens orientadas ao momento do lead.",
+            "Melhorar clareza, fricção e orientação à ação.",
+            "Adaptar linguagem para cada etapa da jornada."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Email Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/email-marketing-certification-en"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Marketing",
+              "link": "https://pm3.com.br/curso-product-marketing/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Udemy — Customer Journey Mapping",
+              "link": "https://www.udemy.com/course/customer-journey-mapping/"
+            }
+          ]
+        },
+        {
+          "name": "Product Discovery aplicado a CLM",
+          "description": "Usar práticas de discovery para compreender necessidades, barreiras, hipóteses e oportunidades antes de desenhar soluções de jornada, automação ou comunicação.",
+          "keyObjectives": [
+            "Levantar problemas antes de propor soluções.",
+            "Validar hipóteses com dados, pesquisa e stakeholders.",
+            "Conectar discovery a experimentação e priorização."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Discovery",
+              "link": "https://pm3.com.br/curso-product-discovery/"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "Udemy — Customer Journey Mapping",
+              "link": "https://www.udemy.com/course/customer-journey-mapping/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nível 3 - Estratégia",
+      "cards": [
+        {
+          "name": "Estratégia de CLM & Growth",
+          "description": "Construir uma estratégia integrada de CLM conectando jornada, dados, CX, Martech, conteúdo, experimentação, conversão e receita.",
+          "keyObjectives": [
+            "Conectar iniciativas de lifecycle aos objetivos de crescimento.",
+            "Definir prioridades estratégicas com base em impacto e dados.",
+            "Criar visão integrada entre aquisição, conversão e retenção."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "PM3 — Curso de Product Growth",
+              "link": "https://pm3.com.br/curso-product-growth/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            }
+          ]
+        },
+        {
+          "name": "Arquitetura de CRM e Martech",
+          "description": "Planejar a estrutura de ferramentas, propriedades, objetos, integrações, eventos, fluxos e governança necessária para sustentar jornadas escaláveis.",
+          "keyObjectives": [
+            "Entender componentes de uma arquitetura de CRM e Martech.",
+            "Relacionar dados, integrações e automações à experiência do lead.",
+            "Avaliar impactos de arquitetura em governança, escala e mensuração."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "SITE",
+              "title": "Trailhead — Busca por Marketing Cloud",
+              "link": "https://trailhead.salesforce.com/search?keywords=Marketing%20Cloud"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Curso Microsoft Dynamics 365 CRM",
+              "link": "https://www.dio.me/curso-microsoft-dynamics-365-crm"
+            },
+            {
+              "type": "SITE",
+              "title": "Databricks Docs — What is Databricks?",
+              "link": "https://docs.databricks.com/aws/en/introduction/"
+            }
+          ]
+        },
+        {
+          "name": "CDP e Orquestração de Dados",
+          "description": "Entender como CDPs e plataformas de dados unificam identidade, eventos e atributos para criar audiências, personalização, ativação multicanal e mensuração.",
+          "keyObjectives": [
+            "Compreender CDP, identidade, eventos e audiências.",
+            "Desenhar casos de uso de personalização e ativação.",
+            "Relacionar CDP com CRM, mídia, site, atendimento e analytics."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Databricks Academy — Training & Certification",
+              "link": "https://www.databricks.com/learn/training/home"
+            },
+            {
+              "type": "SITE",
+              "title": "Databricks Docs — What is Databricks?",
+              "link": "https://docs.databricks.com/aws/en/introduction/"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "SITE",
+              "title": "Trailhead — Busca por Marketing Cloud",
+              "link": "https://trailhead.salesforce.com/search?keywords=Marketing%20Cloud"
+            }
+          ]
+        },
+        {
+          "name": "Ciclos de Conversão",
+          "description": "Desenhar ciclos específicos para momentos críticos da jornada, como ativação, qualificação, inscrição, ficha, matrícula, reengajamento e novas oportunidades.",
+          "keyObjectives": [
+            "Definir ciclos de conversão por etapa e objetivo.",
+            "Conectar timing, canal, mensagem e dado de entrada.",
+            "Medir avanço, recuperação e eficiência por ciclo."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Sales Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-sales-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Curso de Product Growth",
+              "link": "https://pm3.com.br/curso-product-growth/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            }
+          ]
+        },
+        {
+          "name": "Receita Influenciada e Eficiência do Funil",
+          "description": "Mensurar como iniciativas de CLM influenciam avanço de etapa, redução de perda, conversão, retenção e receita, considerando modelos de atribuição e limitações dos dados.",
+          "keyObjectives": [
+            "Entender receita influenciada e atribuição multitoque.",
+            "Medir eficiência acumulada do funil e gargalos.",
+            "Construir narrativas de impacto com ressalvas de dados."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Analytics",
+              "link": "https://pm3.com.br/curso-product-analytics/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Get started with Microsoft data analytics",
+              "link": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            }
+          ]
+        },
+        {
+          "name": "Jornada Omnichannel",
+          "description": "Desenhar experiências integradas entre e-mail, site, mídia paga, WhatsApp, eventos, atendimento, conteúdo, CRM e demais canais, mantendo contexto e continuidade.",
+          "keyObjectives": [
+            "Mapear canais e pontos de contato da jornada.",
+            "Definir regras de continuidade e contexto entre canais.",
+            "Usar dados compartilhados para personalização omnichannel."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Trailhead — Journey Builder Basics",
+              "link": "https://trailhead.salesforce.com/content/learn/modules/journey-builder-basics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Digital Marketing & E-commerce Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Marketing",
+              "link": "https://pm3.com.br/curso-product-marketing/"
+            }
+          ]
+        },
+        {
+          "name": "Customer Success e Retenção",
+          "description": "Conectar lifecycle com adoção, sucesso, retenção, encantamento, expansão e reengajamento de clientes ou alunos após a conversão inicial.",
+          "keyObjectives": [
+            "Entender o papel do pós-conversão no ciclo de vida.",
+            "Mapear oportunidades de retenção, reativação e expansão.",
+            "Relacionar sucesso do cliente com experiência, dados e comunicação."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Sales Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-sales-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            }
+          ]
+        },
+        {
+          "name": "Gestão Estratégica de CLM",
+          "description": "Organizar CLM como disciplina estratégica por meio de processos, rituais, documentação, stakeholders, indicadores, governança e melhoria contínua.",
+          "keyObjectives": [
+            "Definir rituais, responsabilidades e governança de CLM.",
+            "Criar documentação e cadência de aprendizados.",
+            "Consolidar uma operação colaborativa e orientada a impacto."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Análise e Estratégia de Dados",
+      "cards": [
+        {
+          "name": "Data-driven Marketing",
+          "description": "Usar dados para orientar decisões de marketing, priorizar oportunidades, avaliar comportamento, medir impacto e sustentar recomendações de CLM.",
+          "keyObjectives": [
+            "Aplicar dados na tomada de decisão de marketing.",
+            "Diferenciar métricas de vaidade de métricas acionáveis.",
+            "Conectar análise a recomendações e priorização."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Get started with Microsoft data analytics",
+              "link": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Analytics",
+              "link": "https://pm3.com.br/curso-product-analytics/"
+            }
+          ]
+        },
+        {
+          "name": "Métricas de Funil",
+          "description": "Definir e acompanhar métricas de evolução do lead entre etapas, incluindo conversão, velocidade, recuperação, engajamento, eficiência e receita influenciada.",
+          "keyObjectives": [
+            "Definir KPIs por etapa da jornada.",
+            "Analisar conversão e perda entre etapas.",
+            "Relacionar métricas de funil a decisões de CLM."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Analytics",
+              "link": "https://pm3.com.br/curso-product-analytics/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Power BI Training",
+              "link": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+            }
+          ]
+        },
+        {
+          "name": "Business Intelligence para Marketing",
+          "description": "Compreender fundamentos de BI aplicados a marketing, incluindo coleta, modelagem, visualização, dashboards e leitura de indicadores para tomada de decisão.",
+          "keyObjectives": [
+            "Criar bases para relatórios confiáveis.",
+            "Transformar dados em dashboards e análises úteis.",
+            "Conectar BI a decisões de jornada e funil."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Power BI Training",
+              "link": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+            },
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Get started with Microsoft data analytics",
+              "link": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Curso Power BI",
+              "link": "https://www.dio.me/curso-power-bi"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Análise de Dados",
+              "link": "https://www.alura.com.br/carreiras/analise-de-dados"
+            }
+          ]
+        },
+        {
+          "name": "Visualização e Storytelling com Dados",
+          "description": "Construir visualizações e narrativas que transformem indicadores de CLM em insights claros para liderança, pares e stakeholders.",
+          "keyObjectives": [
+            "Escolher visualizações adequadas ao tipo de dado.",
+            "Construir narrativa executiva com contexto e recomendação.",
+            "Comunicar achados com clareza e foco em decisão."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Power BI Training",
+              "link": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Análise de Dados",
+              "link": "https://www.alura.com.br/carreiras/analise-de-dados"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Curso Power BI",
+              "link": "https://www.dio.me/curso-power-bi"
+            }
+          ]
+        },
+        {
+          "name": "Qualidade e Governança de Dados",
+          "description": "Garantir consistência, padronização, confiabilidade, documentação e uso correto dos dados que sustentam segmentações, automações, scoring e relatórios.",
+          "keyObjectives": [
+            "Identificar riscos de dados inconsistentes.",
+            "Definir padrões de propriedades, origem, canal e nomenclaturas.",
+            "Documentar regras de uso, manutenção e governança."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Databricks Academy — Training & Certification",
+              "link": "https://www.databricks.com/learn/training/home"
+            },
+            {
+              "type": "SITE",
+              "title": "Databricks Docs — What is Databricks?",
+              "link": "https://docs.databricks.com/aws/en/introduction/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            }
+          ]
+        },
+        {
+          "name": "Análise de Comportamento do Lead",
+          "description": "Interpretar sinais de interesse e intenção a partir de interações em site, e-mail, formulários, eventos, conteúdo, score e canais de contato.",
+          "keyObjectives": [
+            "Identificar sinais de intenção comportamental.",
+            "Relacionar comportamento a etapa de jornada.",
+            "Transformar comportamento em segmentação, score e automação."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Inbound Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/inbound-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Discovery",
+              "link": "https://pm3.com.br/curso-product-discovery/"
+            }
+          ]
+        },
+        {
+          "name": "Modelagem e Segmentação de Dados",
+          "description": "Criar agrupamentos, listas, critérios e leituras de base para transformar dados em públicos acionáveis e comunicações personalizadas.",
+          "keyObjectives": [
+            "Definir segmentos por perfil, comportamento e estágio.",
+            "Criar critérios acionáveis para listas e audiências.",
+            "Relacionar segmentação a personalização e experimentação."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Email Marketing Certification",
+              "link": "https://academy.hubspot.com/courses/email-marketing-certification-en"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — HubSpot Marketing Hub Software",
+              "link": "https://academy.hubspot.com/courses/hubspot-marketing-hub-software"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Curso SQL Specialist",
+              "link": "https://www.dio.me/curso-sql-specialist"
+            }
+          ]
+        },
+        {
+          "name": "Testes Estatísticos e Experimentação com Dados",
+          "description": "Aplicar noções de estatística, amostragem, significância e leitura de resultados para avaliar testes e experimentos de lifecycle.",
+          "keyObjectives": [
+            "Entender conceitos básicos de testes estatísticos.",
+            "Avaliar resultados de experimentos com cuidado metodológico.",
+            "Evitar conclusões precipitadas por amostra, viés ou baixa significância."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Data Analytics Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-data-analytics"
+            },
+            {
+              "type": "COURSE",
+              "title": "Udemy — A/B Testing and Experimentation",
+              "link": "https://www.udemy.com/courses/search/?q=a%2Fb%20testing%20experimentation"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Analytics",
+              "link": "https://pm3.com.br/curso-product-analytics/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Análise de Dados",
+              "link": "https://www.alura.com.br/carreiras/analise-de-dados"
+            }
+          ]
+        },
+        {
+          "name": "Power BI para Dashboards de CLM",
+          "description": "Usar Power BI e conceitos de data analytics para construir dashboards de jornada, funil, campanhas, réguas, conversão e eficiência.",
+          "keyObjectives": [
+            "Conectar, limpar e modelar dados para dashboards.",
+            "Criar visuais úteis para acompanhamento de CLM.",
+            "Construir relatórios que apoiem decisões de negócio."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Power BI Training",
+              "link": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+            },
+            {
+              "type": "COURSE",
+              "title": "Microsoft Learn — Get started with Microsoft data analytics",
+              "link": "https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Curso Power BI",
+              "link": "https://www.dio.me/curso-power-bi"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Análise de Dados",
+              "link": "https://www.alura.com.br/carreiras/analise-de-dados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business Agility",
+      "cards": [
+        {
+          "name": "Gestão Ágil para Marketing",
+          "description": "Aplicar princípios ágeis para organizar entregas incrementais, adaptar rotas, reduzir desperdícios e gerar pequenas vitórias conectadas a resultados maiores.",
+          "keyObjectives": [
+            "Trabalhar com ciclos curtos e melhoria contínua.",
+            "Equilibrar planejamento, execução e adaptação.",
+            "Gerar valor incremental em projetos de marketing e CLM."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Bootcamps e formações em tecnologia",
+              "link": "https://www.dio.me/bootcamp"
+            }
+          ]
+        },
+        {
+          "name": "Kanban para Marketing",
+          "description": "Usar Kanban para visualizar fluxo de trabalho, limitar WIP, organizar demandas, mapear gargalos e dar visibilidade às entregas.",
+          "keyObjectives": [
+            "Visualizar demandas e status de entrega.",
+            "Limitar trabalho em andamento e reduzir gargalos.",
+            "Organizar rituais de acompanhamento e melhoria."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "DIO — Bootcamps e formações em tecnologia",
+              "link": "https://www.dio.me/bootcamp"
+            }
+          ]
+        },
+        {
+          "name": "Priorização de Projetos e Experimentos",
+          "description": "Priorizar iniciativas, hipóteses e backlog usando critérios de impacto, esforço, urgência, risco, dependência e potencial de negócio.",
+          "keyObjectives": [
+            "Aplicar frameworks de priorização como RICE, ICE ou MoSCoW.",
+            "Escolher poucas iniciativas de maior impacto por ciclo.",
+            "Conectar priorização a métricas e objetivos de negócio."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "PM3 — Curso de Product Growth",
+              "link": "https://pm3.com.br/curso-product-growth/"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Carreira Growth Marketing",
+              "link": "https://www.alura.com.br/carreiras/growth-marketing"
+            }
+          ]
+        },
+        {
+          "name": "Gestão de Projetos",
+          "description": "Planejar projetos de CLM com objetivo, escopo, responsáveis, marcos, dependências, riscos, métricas e acompanhamento de evolução.",
+          "keyObjectives": [
+            "Definir escopo e fora de escopo.",
+            "Mapear marcos, riscos e dependências.",
+            "Acompanhar execução e comunicar status com clareza."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            }
+          ]
+        },
+        {
+          "name": "Planejamento e Metas Estratégicas",
+          "description": "Conectar entregas de CLM a objetivos de negócio, metas, indicadores e impacto esperado, traduzindo estratégia em iniciativas executáveis.",
+          "keyObjectives": [
+            "Definir objetivos e resultados esperados.",
+            "Relacionar iniciativas a metas e KPIs.",
+            "Acompanhar progresso com indicadores claros."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            }
+          ]
+        },
+        {
+          "name": "Gestão de Stakeholders",
+          "description": "Alinhar expectativas, papéis, decisões e responsabilidades com CRM, BI, Planejamento, Desenvolvimento, Vendas, Atendimento e liderança.",
+          "keyObjectives": [
+            "Mapear stakeholders e papéis por projeto.",
+            "Alinhar expectativas antes da execução.",
+            "Registrar decisões e próximos passos."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            }
+          ]
+        },
+        {
+          "name": "Comunicação Interáreas",
+          "description": "Fortalecer comunicação clara, escuta ativa, contexto, co-criação e alinhamento prévio com pares e áreas envolvidas em projetos transversais.",
+          "keyObjectives": [
+            "Compartilhar diagnóstico antes de solução fechada.",
+            "Praticar escuta ativa e comunicação assertiva.",
+            "Reduzir retrabalho por desalinhamento."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            }
+          ]
+        },
+        {
+          "name": "Documentação e Rituais de Projeto",
+          "description": "Criar documentação simples para decisões, briefings, status, aprendizados, fluxos, experimentos e processos recorrentes de CLM.",
+          "keyObjectives": [
+            "Documentar decisões e aprendizados.",
+            "Criar templates de acompanhamento e handoff.",
+            "Manter rituais de checkpoint e melhoria contínua."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "HubSpot Academy — Revenue Operations Certification",
+              "link": "https://academy.hubspot.com/courses/revenue-operations"
+            }
+          ]
+        },
+        {
+          "name": "Fundamentos de Product Management para CLM",
+          "description": "Usar fundamentos de produto para pensar em problemas, usuários, discovery, priorização, roadmap e impacto, aplicando essa lógica à evolução de jornadas e processos de CLM.",
+          "keyObjectives": [
+            "Pensar em problemas antes de soluções.",
+            "Conectar usuário, negócio e tecnologia.",
+            "Usar roadmap e priorização para evoluir iniciativas de CLM."
+          ],
+          "contents": [
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Management",
+              "link": "https://pm3.com.br/curso-product-management/"
+            },
+            {
+              "type": "COURSE",
+              "title": "PM3 — Formação Product Discovery",
+              "link": "https://pm3.com.br/curso-product-discovery/"
+            },
+            {
+              "type": "COURSE",
+              "title": "Coursera — Google Project Management Professional Certificate",
+              "link": "https://www.coursera.org/professional-certificates/google-project-management"
+            },
+            {
+              "type": "COURSE",
+              "title": "Alura — Cursos de Inovação & Gestão",
+              "link": "https://www.alura.com.br/cursos-online-inovacao-gestao"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
